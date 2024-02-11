@@ -2,7 +2,7 @@ from turtle import Screen, Turtle
 
 #student 1: yousef ahmed elzheiri
 #student 2: khalid abdulkader
-#student 3: mohamed gawi
+#student 3: mouhamad al ghawi
  
 wind = Screen()
 wind.title("activity 1")
